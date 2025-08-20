@@ -1,3 +1,4 @@
+
 # Download All Issues Of Nintendo Power
 
 To Use This Script, download both file. open downloadNintendoPower.ps1 in Notepad and update line 2 with your prefered download path.
